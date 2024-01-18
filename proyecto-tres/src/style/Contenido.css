@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100..900;1,100..900&display=swap');
+
+.contenedor-principal {
+    background-color: #1B1C1F;
+    font-family: Overpass;
+    Width: 680px;
+    Height: 625px;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 1 1fr;
+}
+
+.h1 {
+    font-size: 50px;
+    color: white;
+}
+
+.agregado {
+    display: flex;
+    justify-content: center;
+    width: auto;
+
+}
+
+.input2 {
+    width:30%;
+    height: 60px;
+   
+    border-radius: 10px, 0px, 0px, 10px;
+    align-items: center;
+
+}
+
+.boton {
+
+    width:94px;
+    height:77px;
+    padding: 10px, 16px, 10px, 16px;
+    border-radius: 0px, 10px, 10px, 0px;
+    background-color: #1C9675;
+     color: #F6F7F9;
+     
+}
+
+.contadores{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.contador-c{
+    width:400px ;
+    height: 70px;
+    background-color: #F6F7F9;
+    font-size: 20px;
+    margin: 30px;
+
+}
+
+
+.contador-p{
+    
+    width:400px ;
+    height: 70px;
+    background-color: #F6F7F9;
+    color:#B2324A;
+    font-size: 20px;
+}
