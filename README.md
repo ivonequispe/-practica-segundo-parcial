@@ -1,1 +1,1 @@
-# -practica-segundo-parcial
+# practica-segundo-parcial
